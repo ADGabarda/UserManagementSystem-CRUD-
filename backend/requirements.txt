@@ -1,0 +1,7 @@
+chatterbot
+chatterbot-corpus
+pyyaml
+# python -m spacy download en
+spacy
+jupyter
+flask
